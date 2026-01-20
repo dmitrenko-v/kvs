@@ -1,5 +1,3 @@
 package main
 
-const (
-	CRLF = "\r\n"
-)
+const CRLF = "\r\n"
